@@ -6,4 +6,5 @@ def cold(value):
         return 'not cold'
 
 print(cold('yes'))
+print(cold('no'))
 print('How are you?')
