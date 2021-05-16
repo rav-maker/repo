@@ -8,3 +8,4 @@ def cold(value):
 print(cold('yes'))
 print(cold('no'))
 print('How are you?')
+print('How am I?')
